@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65ba88a9-44c3-454c-82b8-eacbee730ede" name="Default Changelist" comment="add form controller repo">
+      <change afterPath="$PROJECT_DIR$/.idea/form-controller-MUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Views/SignupBtn/SignupBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Views/SignupBtn/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/SignUp/Form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/SignUp/Form/Form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/SignUp/Form/form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/SignUp/Form/form.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Views/CheckBox/CheckBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Views/CheckBox/CheckBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Views/TextInput/TextInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Views/TextInput/TextInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Component/Views/ToggleButton/ToggleButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Views/ToggleButton/ToggleButton.module.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -8,5 +29,62 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65ba88a9-44c3-454c-82b8-eacbee730ede" name="Default Changelist" comment="" />
+      <created>1665046524815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665046524815</updated>
+      <workItem from="1665046525923" duration="247000" />
+      <workItem from="1665047450010" duration="476000" />
+      <workItem from="1665047957648" duration="6092000" />
+    </task>
+    <task id="LOCAL-00001" summary="add form controller repo">
+      <created>1665046563259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665046563259</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add form controller repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add form controller repo" />
   </component>
 </project>

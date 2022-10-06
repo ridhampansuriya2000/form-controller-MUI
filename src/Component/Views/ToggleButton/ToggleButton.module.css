@@ -9,6 +9,7 @@
     padding: 5px 8px;
     border-radius: 20px;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .activeTab{
@@ -16,5 +17,5 @@
     width: fit-content;
     padding: 5px 10px;
     color: black;
-    background: #2e7d32;
+    background: #10ff8d;
 }

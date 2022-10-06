@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import Grid from "@mui/material/Grid";
 import Button from '@mui/material/Button';
 import CircularProgress from '@mui/material/CircularProgress';
+import StyledSIgnupBtn from "../../Views/SignupBtn"
 import StyledTextField from "../../Views/TextInput";
 import StyledCheckbox from "../../Views/CheckBox";
 
@@ -191,17 +192,17 @@ const Form = ({
                         I agree to the <span className={style.termsConditions}>Terms and Conditions. </span>
                     </div>
 
-                    <Button variant="contained"
+                    <StyledSIgnupBtn variant="contained"
                             color="success"
                             sx={{
                                 borderRadius: 28,
-                                width: '30%'
+                                width:{xs:'90%', sm:'30%'}
                             }}
                             disabled={!formData.termsConditions || formData.isLoading}
                             onClick={submitFormData}
                     >
                         SIGN UP &nbsp;{formData.isLoading && <CircularProgress size={20} color="inherit" />}
-                    </Button>
+                    </StyledSIgnupBtn>
                 </Grid>
             </Grid>
 

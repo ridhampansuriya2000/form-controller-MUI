@@ -8,7 +8,7 @@ const StyledTextField = styled(TextField)(({ theme }) => ({
     color: theme.palette.success.main,
     '& .MuiOutlinedInput-root':{
       borderRadius: '40px',
-        border:'2px solid #2e7d32',
+        border:'2px solid #10ff8d',
         color: '#ffffff',
         width:'inherit',
         '&:hover focus': {
