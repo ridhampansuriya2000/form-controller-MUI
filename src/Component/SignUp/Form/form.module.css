@@ -1,0 +1,14 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+}
+.inputLable{
+    font-size: 17px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15px;
+    margin: 10px 0px;
+}
+.termsConditions{
+    color: #2e7d32;
+}
